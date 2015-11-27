@@ -11,4 +11,6 @@ Instructions
 --------------------
 In order to maintain a working project as much as possible, please check with others if they are working with any files that you wish to work with, to ensure there are no conflicts later.
 
+Do NOT rename files unless discussed with other team members using those files.
+
 If there's any other program that needs to be added in future, or if there's anything you want added to this readme, just contact me on Skype or Facebook and I'll get it added.
